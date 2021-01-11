@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PageSwitching/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/PageSwitching/static/js/main.f126bc36.chunk.js",
+    "main.js.map": "/PageSwitching/static/js/main.f126bc36.chunk.js.map",
+    "runtime-main.js": "/PageSwitching/static/js/runtime-main.5d470ca5.js",
+    "runtime-main.js.map": "/PageSwitching/static/js/runtime-main.5d470ca5.js.map",
+    "static/js/2.e353e37e.chunk.js": "/PageSwitching/static/js/2.e353e37e.chunk.js",
+    "static/js/2.e353e37e.chunk.js.map": "/PageSwitching/static/js/2.e353e37e.chunk.js.map",
+    "static/js/3.79af11a3.chunk.js": "/PageSwitching/static/js/3.79af11a3.chunk.js",
+    "static/js/3.79af11a3.chunk.js.map": "/PageSwitching/static/js/3.79af11a3.chunk.js.map",
+    "index.html": "/PageSwitching/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/PageSwitching/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e353e37e.chunk.js.LICENSE.txt": "/PageSwitching/static/js/2.e353e37e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d470ca5.js",
+    "static/js/2.e353e37e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f126bc36.chunk.js"
+  ]
+}
